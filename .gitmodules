@@ -5,6 +5,9 @@
 [submodule "dateback"]
 	path = dateback
 	url = https://github.com/r-suzuki/dateback
+[submodule "gcor"]
+	path = gcor
+	url = https://github.com/r-suzuki/gcor-r
 [submodule "pvclust"]
 	path = pvclust
 	url = https://github.com/cran/pvclust
